@@ -35,7 +35,7 @@ git branch - показать список веток
 
 git branch new_branch - создать новую ветку с указанным именем на текущем коммите
 
-git checkout -b new_branch  - создать и перейти в указанную ветку
+git checkout -b new_branch  - создать и перейти в указанную ветку 
 
 git checkout new_branch  - перейти в указанную ветку
 
