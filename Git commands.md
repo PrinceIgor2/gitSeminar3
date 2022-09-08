@@ -39,3 +39,4 @@ git checkout new_branch  - перейти в указанную ветку
 
 git merge hotfix  - влить в ветку, в которой находимся, данные из ветки hotfix
 
+gitgitgit
